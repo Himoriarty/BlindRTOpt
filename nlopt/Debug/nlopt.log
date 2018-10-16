@@ -1,0 +1,6 @@
+﻿  main.c
+e:\lin\nlopt-2.4.2\nlopt (2)\nlopt\main.c(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\lin\nlopt-2.4.2\nlopt (2)\nlopt\main.c(111): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[3]'
+e:\lin\nlopt-2.4.2\nlopt (2)\nlopt\main.c(111): warning C4024: 'nlopt_optimize': different types for formal and actual parameter 2
+  nlopt.vcxproj -> E:\lin\nlopt-2.4.2\nlopt (2)\nlopt\Debug\nlopt.exe
+  nlopt.vcxproj -> E:\lin\nlopt-2.4.2\nlopt (2)\nlopt\Debug\nlopt.pdb (Partial PDB)
